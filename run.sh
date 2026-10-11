@@ -9,4 +9,4 @@ fi
 #-> Go to the directory of this script
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
-./src/scale_plot.py
+./src/main.py
